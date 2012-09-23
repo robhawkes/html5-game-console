@@ -1,3 +1,3 @@
 [submodule "gaia"]
 	path = gaia
-	url = git@github.com:robhawkes/firefox-os-console-gaia.git
+	url = git@github.com:robhawkes/html5-game-console-gaia.git
