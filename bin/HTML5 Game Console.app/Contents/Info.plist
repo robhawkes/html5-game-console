@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>LSUIPresentationMode</key>
+	<integer>4</integer>
+	<key>CFBundleExecutable</key>
+	<string>b2g</string>
+	<key>CFBundleGetInfoString</key>
+	<string>B2G 18.0a1</string>
+	<key>CFBundleIconFile</key>
+	<string>b2g</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.mozilla.b2g</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>18.0a1</string>
+	<key>CFBundleName</key>
+	<string>B2G</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>18.0a1</string>
+	<key>CFBundleSignature</key>
+	<string>MOZB</string>
+	<key>CFBundleVersion</key>
+	<string>18.0a1</string>
+	<key>NSAppleScriptEnabled</key>
+	<true/>
+	<key>CGDisableCoalescedUpdates</key>
+	<true/>
+</dict>
+</plist>

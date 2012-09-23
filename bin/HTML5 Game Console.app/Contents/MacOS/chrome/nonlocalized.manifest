@@ -1,0 +1,24 @@
+# pippki.manifest
+content pippki jar:pippki.jar!/content/pippki/
+
+# toolkit.manifest
+content xbl-marquee jar:toolkit.jar!/content/xbl-marquee/
+skin global classic/1.0 jar:toolkit.jar!/skin/classic/global/
+content global jar:toolkit.jar!/content/global/ contentaccessible=yes
+content mozapps jar:toolkit.jar!/content/mozapps/
+skin mozapps classic/1.0 jar:toolkit.jar!/skin/classic/mozapps/
+content global-region jar:toolkit.jar!/content/global-region/
+content cookie jar:toolkit.jar!/content/cookie/
+content passwordmgr jar:toolkit.jar!/content/passwordmgr/
+override chrome://global/content/nsTransferable.js chrome://global/content/nsDragAndDrop.js
+content global-platform jar:toolkit.jar!/content/global-platform/ platform
+resource gre-resources jar:toolkit.jar!/res/
+content satchel jar:toolkit.jar!/content/satchel/
+
+# chrome.manifest
+content branding jar:chrome.jar!/content/branding/
+override chrome://global/skin/netError.css chrome://browser/content/netError.css
+override chrome://global/content/netError.xhtml chrome://browser/content/netError.xhtml
+override chrome://global/skin/media/videocontrols.css chrome://browser/content/touchcontrols.css
+content browser jar:chrome.jar!/content/
+

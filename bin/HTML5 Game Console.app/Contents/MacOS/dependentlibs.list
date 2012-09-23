@@ -1,0 +1,11 @@
+libnspr4.dylib
+libplc4.dylib
+libplds4.dylib
+libnssutil3.dylib
+libnss3.dylib
+libsmime3.dylib
+libssl3.dylib
+libmozsqlite3.dylib
+libmozglue.dylib
+libmozalloc.dylib
+XUL
